@@ -1,1 +1,1 @@
-# python-string2-assignment
+# python-conditional-assignment
